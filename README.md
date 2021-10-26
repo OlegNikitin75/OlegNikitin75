@@ -1,1 +1,1 @@
-<img src="https://github.com/OlegNikitin075/OlegNikitin075/blob/master/assets/bg-img.jpg">
+<img src="https://github.com/OlegNikitin75/OlegNikitin75/tree/main/assets/bg-img.jpg">

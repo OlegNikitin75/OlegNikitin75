@@ -2,7 +2,7 @@
 
 <div  align="center">
 
-<a  href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
+<a  href="https://github.com/OlegNikitin75?tab=repositories&sort=stargazers">
 
 <img  alt="total stars"  title="Total stars on GitHub"  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000&labelColor=FFD100&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OlegNikitin75"  /></a>
 

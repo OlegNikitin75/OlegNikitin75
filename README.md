@@ -1,6 +1,6 @@
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/bg-img.png">
 
-<div  align="center">
+<div  align="center" style="display: flex;">
 
 <a  href="https://github.com/OlegNikitin75?tab=repositories&sort=stargazers">
 

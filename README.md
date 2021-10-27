@@ -19,7 +19,7 @@
 
   
 
-##  I'm a Junior Developer, Senior Lecturer!
+##  I'm a Junior Frontend Developer, Senior Lecturer!
 
   
 

@@ -27,15 +27,15 @@
 
 ###  Contacts:
 
-[<img style="margin-right: 10px;" alt="OlegNikitin | telegram"  src="https://img.shields.io/badge/telegram-64aadd.svg?&style=for-the-badge&logo=telegram&logoColor=fff"  />][telegram]
+[<img alt="OlegNikitin | telegram"  src="https://img.shields.io/badge/telegram-64aadd.svg?&style=for-the-badge&logo=telegram&logoColor=fff"  />][telegram]
 
-[<img style="margin-right: 10px;" alt="OlegNikitin| LinkedIn"  src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"  />][linkedin]
+[<img alt="OlegNikitin| LinkedIn"  src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"  />][linkedin]
 
 [<img  alt="OlegNikitin| VK"  src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff"  />][vk]
 
 <table>
   <tr>
-    <td>My projects:</td>
+    <td collspan="2">My projects:</td>
   </tr>
   <tr>
     <td>
@@ -44,7 +44,7 @@
          <td>
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/cv-bg.jpg">
          </td> 
-         <td width="231px">
+         <td>
            <a href="https://OlegNikitin75.github.io/CV/">My CV</a>
         </td>
        </tr>
@@ -52,7 +52,7 @@
          <td>
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project1-bg.jpg">
          </td> 
-         <td width="231px">
+         <td>
            <a href="https://OlegNikitin75.github.io/Site-Lifan/">Lifan Solano owners website</a>
         </td>
        </tr>
@@ -62,18 +62,18 @@
      <table>
        <tr>
          <td>
-          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/cv-bg.jpg">
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project2-bg.jpg">
          </td> 
-         <td width="231px">
-           <a href="https://OlegNikitin75.github.io/CV/">My CV</a>
+         <td>
+           <a href="https://OlegNikitin75.github.io/site-online-zoo/">Online Zoo</a>
         </td>
        </tr>
        <tr>
          <td>
-          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project1-bg.jpg">
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project3-bg.jpg">
          </td> 
-         <td width="231px">
-           <a href="https://OlegNikitin75.github.io/Site-Lifan/">Lifan Solano owners website</a>
+         <td>
+           <a href="https://OlegNikitin75.github.io/Site-Lifan/">Photo filter</a>
         </td>
        </tr>
       </table>

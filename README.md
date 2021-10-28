@@ -9,10 +9,7 @@
 <a  href="https://github.com/OlegNikitin75">
 <img  alt="followers"  title="Follow me on Github"  src="https://custom-icon-badges.herokuapp.com/github/followers/OlegNikitin75?color=000&labelColor=FFD100&style=for-the-badge&logo=person-add&label=Follow&logoColor=fff" /></a>
 </div>
-
-
 </div>
-
   
 
 ###  Hi all, I'm Aleh 
@@ -25,17 +22,15 @@
 
 -   I’m From Belarus (Gomel)
 
-###  Contacts:
+###  My Contacts:
 
 [<img alt="OlegNikitin | telegram"  src="https://img.shields.io/badge/telegram-64aadd.svg?&style=for-the-badge&logo=telegram&logoColor=fff"  />][telegram]
-
 [<img alt="OlegNikitin| LinkedIn"  src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"  />][linkedin]
-
 [<img  alt="OlegNikitin| VK"  src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff"  />][vk]
 
 <table>
   <tr>
-    <td colspan="2">My projects:</td>
+    <th colspan="2">My Projects:</th>
   </tr>
   <tr>
     <td>

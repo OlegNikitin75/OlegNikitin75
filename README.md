@@ -12,17 +12,17 @@
 </div>
   
 
-###  Hi all, I'm Aleh 
+### 👋 Hi all, I'm Aleh. 
 
   
 
-##  I'm a Junior Frontend Developer, Senior Lecturer!
+##  💻  I'm a Junior Frontend Developer, 📐 Senior Lecturer! 	✏️
 
   
 
 -   I’m From Belarus (Gomel)
 
-###  My Contacts:
+###  📘 My Contacts:
 
 [<img alt="OlegNikitin | telegram"  src="https://img.shields.io/badge/telegram-64aadd.svg?&style=for-the-badge&logo=telegram&logoColor=fff"  />][telegram]
 [<img alt="OlegNikitin| LinkedIn"  src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"  />][linkedin]
@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <th colspan="2">My Projects:</th>
+    <th colspan="2">📝 My Projects:</th>
   </tr>
   <tr>
     <td>

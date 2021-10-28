@@ -59,6 +59,14 @@
            <a href="https://OlegNikitin75.github.io/photographer-s-website/">Photographer`s personal website</a>
         </td>
        </tr>
+        <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project6-bg.jpg">
+         </td> 
+         <td width="230px">
+           <a href="https://OlegNikitin75.github.io/pop-the-balloon/">Pop The Balloon</a>
+        </td>
+       </tr>
       </table>
     </td>
     <td>
@@ -84,7 +92,15 @@
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project5-bg.jpg">
          </td> 
          <td width="230px">
-           <a href="https://olegnikitin75.github.io/js-clock/">JS clock</a>
+           <a href="https://OlegNikitin75.github.io/js-clock/">JS clock</a>
+        </td>
+       </tr>
+        <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project7-bg.jpg">
+         </td> 
+         <td width="230px">
+           <a href="https://OlegNikitin75.github.io/custom-video-player/">Custom Video Player</a>
         </td>
        </tr>
       </table>

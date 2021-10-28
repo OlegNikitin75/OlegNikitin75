@@ -27,13 +27,11 @@
 
 ###  Contacts:
 
-<div style="display: flex; justify-content: center">
 [<img style="margin-right: 10px;" alt="OlegNikitin | telegram"  src="https://img.shields.io/badge/telegram-64aadd.svg?&style=for-the-badge&logo=telegram&logoColor=fff"  />][telegram]
 
 [<img style="margin-right: 10px;" alt="OlegNikitin| LinkedIn"  src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"  />][linkedin]
 
 [<img  alt="OlegNikitin| VK"  src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff"  />][vk]
-</div>
 
 
 

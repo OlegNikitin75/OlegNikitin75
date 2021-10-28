@@ -33,7 +33,53 @@
 
 [<img  alt="OlegNikitin| VK"  src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff"  />][vk]
 
-
+<table>
+  <tr>
+    <td>My projects:</td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+       <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/cv-bg.jpg">
+         </td> 
+         <td width="231px">
+           <a href="https://OlegNikitin75.github.io/CV/">My CV</a>
+        </td>
+       </tr>
+       <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project1-bg.jpg">
+         </td> 
+         <td width="231px">
+           <a href="https://OlegNikitin75.github.io/Site-Lifan/">Lifan Solano owners website</a>
+        </td>
+       </tr>
+      </table>
+    </td>
+    <td>
+     <table>
+       <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/cv-bg.jpg">
+         </td> 
+         <td width="231px">
+           <a href="https://OlegNikitin75.github.io/CV/">My CV</a>
+        </td>
+       </tr>
+       <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project1-bg.jpg">
+         </td> 
+         <td width="231px">
+           <a href="https://OlegNikitin75.github.io/Site-Lifan/">Lifan Solano owners website</a>
+        </td>
+       </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 [telegram]:  https://t.me/oleg_nikitin1975
 [linkedin]:  https://www.linkedin.com/in/aleh-nikitsin-4b280819b

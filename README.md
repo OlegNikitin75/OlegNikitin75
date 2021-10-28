@@ -76,7 +76,7 @@
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project3-bg.jpg">
          </td> 
          <td width="230px">
-           <a href="https://OlegNikitin75.github.io/Site-Lifan/">Photo filter</a>
+           <a href="https://OlegNikitin75.github.io/photo-filter/">Photo filter</a>
         </td>
        </tr>
         <tr>

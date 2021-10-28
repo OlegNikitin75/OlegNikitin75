@@ -36,5 +36,5 @@
 
 
 [telegram]:  https://t.me/oleg_nikitin1975
-[linkedin]:  https://vk.com/away.php?utf=1&to=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25B3-%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25B8%25D1%2582%25D0%25B8%25D0%25BD-4b280819b
+[linkedin]:  https://www.linkedin.com/in/aleh-nikitsin-4b280819b
 [vk]:  https://vk.com/nov075

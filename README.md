@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td collspan="2">My projects:</td>
+    <td colspan="2">My projects:</td>
   </tr>
   <tr>
     <td>
@@ -44,7 +44,7 @@
          <td>
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/cv-bg.jpg">
          </td> 
-         <td>
+         <td width="230px">
            <a href="https://OlegNikitin75.github.io/CV/">My CV</a>
         </td>
        </tr>
@@ -52,8 +52,16 @@
          <td>
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project1-bg.jpg">
          </td> 
-         <td>
+         <td width="230px">
            <a href="https://OlegNikitin75.github.io/Site-Lifan/">Lifan Solano owners website</a>
+        </td>
+       </tr>
+       <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project4-bg.jpg">
+         </td> 
+         <td width="230px">
+           <a href="https://OlegNikitin75.github.io/photographer-s-website/">Photographer`s personal website</a>
         </td>
        </tr>
       </table>
@@ -64,7 +72,7 @@
          <td>
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project2-bg.jpg">
          </td> 
-         <td>
+         <td width="230px">
            <a href="https://OlegNikitin75.github.io/site-online-zoo/">Online Zoo</a>
         </td>
        </tr>
@@ -72,8 +80,16 @@
          <td>
           <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project3-bg.jpg">
          </td> 
-         <td>
+         <td width="230px">
            <a href="https://OlegNikitin75.github.io/Site-Lifan/">Photo filter</a>
+        </td>
+       </tr>
+        <tr>
+         <td>
+          <img width="140px" src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/project5-bg.jpg">
+         </td> 
+         <td width="230px">
+           <a href="https://olegnikitin75.github.io/js-clock/">JS clock</a>
         </td>
        </tr>
       </table>

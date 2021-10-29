@@ -23,7 +23,7 @@
 -   I’m From Belarus (Gomel)
 
 ###  🎏 My Tech Stack:
-<div  align="center" >
+
 <div style="display: flex;">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/html-5.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/css3.png">
@@ -34,7 +34,6 @@
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/inventor.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/figma.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/photoshop.png">
-</div>
 </div>
 
 

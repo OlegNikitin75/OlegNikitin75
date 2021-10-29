@@ -20,7 +20,7 @@
 
   
 
--  🔴 I’m From Belarus (Gomel)
+-  🔴 I’m from Belarus (Gomel)
 -  ⚪ I teach graphic engineering disciplines
 -  🔵 I am doing frontend development
 

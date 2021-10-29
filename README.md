@@ -30,6 +30,8 @@
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/javascript.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/typescript.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/react.png">
+<img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/bootstrap.png">
+<img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/sass.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/autodesk-autocad.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/inventor.png">
 <img  src="https://github.com/OlegNikitin75/OlegNikitin75/blob/main/assets/figma.png">
